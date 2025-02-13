@@ -104,5 +104,4 @@ If you change `log` to `logg` in `log.cpp`, the linker will not find the functio
 
 ---
 
-This guide provides a structured and easy-to-understand explanation of how C++ works. Let me know if you need further clarification! 🚀
 
